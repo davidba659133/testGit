@@ -11,6 +11,8 @@
     <h1>page d'accueil V2</h1>
 
 Hello boy
-    <form></form>
+    <form>
+        uytrez
+    </form>
 </body>
 </html>
