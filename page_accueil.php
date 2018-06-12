@@ -8,9 +8,9 @@
     <title></title>
 </head>
 <body>
-    <h1>page d'accueil V2</h1>
+<h1>page d'accueil v1</h1>
 
-Hello boy
-    <form></form>
+contactez moi
+<form></form>
 </body>
 </html>
